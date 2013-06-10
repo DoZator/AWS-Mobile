@@ -1,23 +1,5 @@
-Проект 2. Идея и интерфейс приложения
-=============
-
-Придумайте приложение для OS X, разработайте графический интерфейс и сдайте:
-
-1. Подробное описание в README.md или PDF. Описание должно включать:
-	* Проблему, которую решает приложение
-	* Аудитория приложения
-	* Пример сценария использования приложения
-	* Описание поведения (что происходит при загрузке, что происходит при нажатии на кнопку Х, и так далее).
-2. Вся папка с проектом, в которой обязательно должен быть .xib-файл с графическим интерфейсом.
-
-[Сдать работу](https://u.hexlet.org/courses/4/assignments/6)
-
----
-
 ### AWS Mobile iPhone Application (en)
 ---
-
-This application is only [project](https://github.com/Hexlet/osx-project-2) for online [Hexlet University](http://hexlet.org).
 
 #### About
 
@@ -44,8 +26,6 @@ With the AWS Mobile App developers can start and stop EC2 instances, view and pe
 ### AWS Mobile iPhone Application (ru)
 ---
 
-Это приложения является реализацией [проекта](https://github.com/Hexlet/osx-project-2) онлайн университета [Hexlet](http://hexlet.org).
-
 #### Описание приложения
 
 Приложеие предназначено для управления сервисами Amazon AWS, включая Simple Storage Service (Amazon S3) и Amazon Elastic Compute Cloud (Amazon EC2).
@@ -69,8 +49,6 @@ With the AWS Mobile App developers can start and stop EC2 instances, view and pe
 ![image](https://dl.dropbox.com/u/1713297/AWS%20Mobile.png)
 
 #### Работа с приложением
-
-В рамках "Проекта 2 и 3" онлайн университета [Hexlet](http://hexlet.org), реализована работа приложения только с сервисом Amazon S3.
 
 [Скринкаст работы приложения](http://youtu.be/9ebMPlRtuPE)
 
